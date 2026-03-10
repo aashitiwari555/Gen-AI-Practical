@@ -1,4 +1,4 @@
-# Learning Gen-AI
+#Gen-AI
 
 This repository documents my learning journey in working with image and text data using Python, with a focus on preprocessing, analysis, visualization, and understanding how TensorFlow executes computations.  
 The goal is to build strong foundations required before training generative AI models.
